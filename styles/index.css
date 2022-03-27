@@ -1,0 +1,10 @@
+#menu-bar {
+  background-color: dark-gray;
+}
+#Home {
+  background-color: dark-gray;
+}
+
+#Home:hover {
+  background-color: light-gray;
+}
