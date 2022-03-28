@@ -5,6 +5,7 @@
 }
 #Home {
   background-color: gray;
+  border-color: gray;
 }
 
 #Home:hover {
