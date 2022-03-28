@@ -8,3 +8,35 @@
 #Home:hover {
   background-color: white;
 }
+
+#Download {
+  background-color: gray;
+}
+
+#Download:hover {
+  background-color: white;
+}
+
+#About {
+  background-color: gray;
+}
+
+#About:hover {
+  background-color: white;
+}
+
+#More-Info {
+  background-color: gray;
+}
+
+#More-Info:hover {
+  background-color: white;
+}
+
+#Search {
+  background-color: gray;
+}
+
+#Search:hover {
+  background-color: white;
+}
