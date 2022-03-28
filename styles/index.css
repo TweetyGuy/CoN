@@ -7,60 +7,65 @@
 
 #Home {
   border-style: solid;
-  border-color: gray;
   text-decoration: none;
+  border-color: black;
+  color: dimgray;
 }
 
 #Home:hover {
   border-style: solid;
-  background-color: lightgray;
-  border-color: lightgray;
+  color: white;
+  border-color: black;
 }
 
 #Download {
   border-style: solid;
-  border-color: gray;
   text-decoration: none;
+  border-color: black;
+  color: dimgray;
 }
 
 #Download:hover {
   border-style: solid;
-  background-color: lightgray;
-  border-color: lightgray;
+  color: white;
+  border-color: black;
 }
 
 #About {
   border-style: solid;
-  border-color: gray;
   text-decoration: none;
+  border-color: black;
+  color: dimgray;
 }
 
 #About:hover {
   border-style: solid;
-  background-color: lightgray;
-  border-color: lightgray;
+  color: white;
+  border-color: black;
 }
 
 #More-Info {
   border-style: solid;
-  border-color: gray;
   text-decoration: none;
+  border-color: black;
+  color: dimgray;
 }
 
 #More-Info:hover {
   border-style: solid;
-  background-color: lightgray;
-  border-color: lightgray;
+  color: white;
+  border-color: black;
 }
 
 #Search {
   border-style: solid;
-  border-color: gray;
   text-decoration: none;
+  border-color: black;
+  color: dimgray;
 }
 
 #Search:hover {
   border-style: solid;
-  background-color: lightgray;
-  border-color: lightgray;
+  color: white;
+  border-color: black;
 }
