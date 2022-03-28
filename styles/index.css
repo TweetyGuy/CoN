@@ -12,6 +12,54 @@
 
 #Home:hover {
   border-style: solid;
-  background-color: white;
-  border-color: white;
+  background-color: lightgray;
+  border-color: lightgray;
+}
+
+#Download {
+  border-style: solid;
+  background-color: gray;
+  border-color: gray;
+}
+
+#Download:hover {
+  border-style: solid;
+  background-color: lightgray;
+  border-color: lightgray;
+}
+
+#About {
+  border-style: solid;
+  background-color: gray;
+  border-color: gray;
+}
+
+#About:hover {
+  border-style: solid;
+  background-color: lightgray;
+  border-color: lightgray;
+}
+
+#More-Info {
+  border-style: solid;
+  background-color: gray;
+  border-color: gray;
+}
+
+#More-Info:hover {
+  border-style: solid;
+  background-color: lightgray;
+  border-color: lightgray;
+}
+
+#Search {
+  border-style: solid;
+  background-color: gray;
+  border-color: gray;
+}
+
+#Search:hover {
+  border-style: solid;
+  background-color: lightgray;
+  border-color: lightgray;
 }
