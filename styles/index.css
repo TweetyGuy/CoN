@@ -1,4 +1,5 @@
 #menu-bar {
+  user-select: none;
   background-color: black;
   opacity: 75%;
   width: 100%;
