@@ -2,70 +2,70 @@
   background-color: black;
   opacity: 75%;
   width: 100%;
-  height: 7%;
+  height: 45;
 }
 
 #Home {
-  border-style: solid;
+  position: absolute;
+  cursor: pointer;
+  top: 22.5;
+  left: 16%;
   text-decoration: none;
-  border-color: black;
   color: dimgray;
 }
 
 #Home:hover {
-  border-style: solid;
   color: white;
-  border-color: black;
 }
 
 #Download {
-  border-style: solid;
+  position: absolute;
+  cursor: pointer;
+  top: 22.5;
+  left: 32%;
   text-decoration: none;
-  border-color: black;
   color: dimgray;
 }
 
 #Download:hover {
-  border-style: solid;
   color: white;
-  border-color: black;
 }
 
 #About {
-  border-style: solid;
+  position: absolute;
+  cursor: pointer;
+  top: 22.5;
+  left: 48%;
   text-decoration: none;
-  border-color: black;
   color: dimgray;
 }
 
 #About:hover {
-  border-style: solid;
   color: white;
-  border-color: black;
 }
 
 #More-Info {
-  border-style: solid;
+  position: absolute;
+  cursor: pointer;
+  top: 22.5;
+  left: 64%;
   text-decoration: none;
-  border-color: black;
   color: dimgray;
 }
 
 #More-Info:hover {
-  border-style: solid;
   color: white;
-  border-color: black;
 }
 
 #Search {
-  border-style: solid;
+  position: absolute;
+  cursor: pointer;
+  top: 22.5;
+  left: 80%;
   text-decoration: none;
-  border-color: black;
   color: dimgray;
 }
 
 #Search:hover {
-  border-style: solid;
   color: white;
-  border-color: black;
 }
